@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.navbar-index{
+    height: 50px;
+}
+body{
+    margin:0%;
+    padding:0%;
+}
+.card{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png ");
+    background-size: cover;
+    height:100vh;
+}
+.card-sec{
+    color:white;
+}
+.cus-btn{
+    background-color:#d0b200;
+    border: none;
+    border-radius:8px;
+    color: white;
+}
+.cus-btn1{
+    background-color: transparent;
+    color:#d0b200;
+    border-style:solid;
+    border-color:#d0b200;
+    border-width:1px;
+    border-radius: 8px;
+}
+.card{
+    text-align:center;
+}
+.sec2-img{
+    text-align: center;
+}
+.sec2-para{
+    color:#7b8794;
+}
+.sec3-head{
+    color: #323f4b;
+    font-family:"Roboto";
+    font-weight:600;
+}
+.sec3-para{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+.sec3-link{
+    color: #d0b200;
+    font-family:"Roboto";
+}
+.sec3-img{
+    border-radius:20px;
+}
+.sec3-menu{
+    border-radius:20px;
+}
+.sec4-heading{
+    color: #183b56;
+    font-family: "roboto";
+    font-weight:600;
+}
+.sec4-paragraph{
+    color: #5a7184;
+    font-family: "roboto";
+}
+.sec5-head{
+    color: #183b56;
+    font-family: "roboto";
+    font-weight:600;
+}
+#section6-gift-card{
+    background-image: radial-gradient(#fff8db,#fae38c);
+    padding-bottom:10px;
+}
+.sec6-heading{
+    color: #183b56;
+    font-family:"roboto";
+    font-weight: 600;
+}
+.sec6-paragraph{
+    color: #5a7184;
+    font-family:"roboto";
+}
+.sec6-gift-img{
+    background-color:none;
+}
+.cus-btn2{
+    color:white;
+    background-color: #d0b200;
+    border:none;
+    border-radius:8px;
+}
+.gift-head{
+    font-weight:600 !important;
+    font-family:"roboto";
+}
+.icon-content-img{
+    background-color:#faf7e8;
+    border-radius:65px;
+    padding:15px;
+    margin:10px;
+}
+.sec7-heading{
+    color:#323f4b;
+    font-family:"Roboto";
+    font-weight:600;
+    text-align: center;
+}
+.icon{
+    color:#d0b200;
+    font-size:35px;
+}
+.gmail-sec{
+    color:#959ead;
+    font-size:20px;
+    font-weight: 550;
+}
+.address-sec{
+    color:#959ead;
+}
+.footer-sec{
+    background-color: #183b56;
+    background-size: cover;
+    text-align: center;
+    width:100vw;
+}
+.footer-img{
+    height:120px;
+    width: 110px;
+}
